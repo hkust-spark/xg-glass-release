@@ -52,6 +52,10 @@ What each button does:
 
 - Stop: Stops the automatic loop.
 
+Changing AI settings while running:
+
+- Best practice: tap Stop, then Apply, then Start again.
+
 ---
 
 ### What you will see
@@ -63,20 +67,6 @@ What each button does:
 - For valid AI results, displayed as: `<question_id>: (<explanation>) **<answer>**`
 
 - For invalid requests: displayed as `invalid request: <reason>`; the app retries sooner after invalid responses.
-
----
-
-### Tips & troubleshooting
-
-- Make sure you tapped Connect first.
-
-- Confirm Wi‑Fi and Location are enabled on the phone.
-
-- AI doesn’t respond:
-  - Re-check Base URL / API Key / Model, then tap Apply again.
-
-- Changing AI settings while running:
-  - Best practice: tap Stop, then Apply, then Start again.
 
 ---
 
